@@ -1,0 +1,11 @@
+{
+"bangalore":[
+	{"hotels":["park","leela","mac"]}
+	]
+"chennai":[
+	{"hotels":["shang","mang","bang"]}
+	]
+"hyderabad":[
+	{"hotels":["taj","oberai","ibis"]}
+	]
+}
