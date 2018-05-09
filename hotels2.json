@@ -1,0 +1,7 @@
+{
+    "cities":[
+        {"bangalore":["park","leela","mac"]},
+        {"chennai":["shang","mang","bang"]},
+        {"hyderabad":["taj","oberai","ibis"]}
+    ]
+}
