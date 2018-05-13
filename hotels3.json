@@ -1,0 +1,7 @@
+{
+    "cities":[
+        {"name":"bangalore","hotels":["park","leela","mac"],"pirces":["400","300","220"],"rating":["5Star","4Star","3Star"]},
+        {"name":"chennai","hotels":["shang","mang","bang"],"pirces":["970","800","700"],"rating":["4Star","4Star","3Star"]},
+        {"name":"hyderabad","hotels":["taj","oberai","ibis"],"pirces":["600","350","100"],"rating":["3Star","2Star","1Star"]}
+    ]
+}
